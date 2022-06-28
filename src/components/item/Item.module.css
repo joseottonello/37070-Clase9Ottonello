@@ -1,0 +1,13 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+    padding: 1rem;
+    max-width: 20%; 
+}
+
+.button {
+    margin: 1rem;
+}

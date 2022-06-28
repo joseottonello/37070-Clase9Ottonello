@@ -1,0 +1,7 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin: 1rem;
+    padding: 1rem;
+}

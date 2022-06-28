@@ -1,0 +1,23 @@
+.navbar {
+    box-shadow: 0px 1px 1px 0px;
+}
+
+.links {
+    padding: 1rem;
+}
+
+.home {
+    color: black;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.category {
+    color: black;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.widgets {
+    padding: 1rem;
+}
